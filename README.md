@@ -1,3 +1,10 @@
+## Autor
+
+Daniel Isaias Roman Lozano 
+20241020126
+Ingenieria de Sistemas  
+Universidad Distrital Francisco Jose de Caldas
+
 # Sistema Iterator Visitor
 
 Aplicacion Java desarrollada en NetBeans que implementa los patrones de diseno **Iterator** y **Visitor** para recorrer y validar personas dentro de diferentes estructuras de datos.
@@ -35,3 +42,5 @@ TreeSetPersonaIterator
 ColeccionPersonas
 ColeccionArrayListPersonas
 ColeccionTreeSetPersonas
+
+
