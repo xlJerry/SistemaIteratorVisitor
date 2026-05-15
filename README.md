@@ -1,8 +1,11 @@
 ## Autor
 
 Daniel Isaias Roman Lozano 
+
 20241020126
+
 Ingenieria de Sistemas  
+
 Universidad Distrital Francisco Jose de Caldas
 
 # Sistema Iterator Visitor
